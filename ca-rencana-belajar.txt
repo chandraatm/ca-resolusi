@@ -3,3 +3,6 @@ belajar dari Youtube WPU secara lengkap
 
 -ECLIPSE
   cari Eclipse learning
+  
+-IDEMPIERE
+  from Idempiere Website
