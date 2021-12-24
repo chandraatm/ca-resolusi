@@ -5,3 +5,4 @@ CA RESOLUSI
 - Belajar IdempiereERP
 - Install dan coba aplikasi
 - Develop ERP
+- Training
