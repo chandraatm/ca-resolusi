@@ -1,6 +1,8 @@
 -GIT/GITHUB
-belajar dari Youtube WPU secara lengkap
-mulai dari Github dulu
+  belajar dari Youtube WPU secara lengkap
+  mulai dari Gituhub dulu
+  selanjutnya ke Git
+  pelajari hub.nyadengan Eclipse
 
 -ECLIPSE
   cari Eclipse learning
