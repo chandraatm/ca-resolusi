@@ -1,4 +1,6 @@
 RENCANA BELAJAR CA
 
 - Git and Gihub
+  Belajar dari Youtube WPU sampai selesai
+  
 - Eclipse -
