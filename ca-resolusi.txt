@@ -2,3 +2,6 @@ CA RESOLUSI
 - Belajar GIT/GITHUB
 - Belajar Java
 - Belajar Eclipse
+- Belajar IdempiereERP
+- Install dan coba aplikasi
+- Develop ERP
